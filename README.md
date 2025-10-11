@@ -17,14 +17,14 @@
   <details>
   <summary>📘 Voir l'architecture du SPAM</summary>
   <br>
-  <img src="assets/Architecture_SPAM.jpg" alt="Architecture_SPAM" width="750">
+  <img src="assets/images/Architecture_SPAM.jpg" alt="Architecture_SPAM" width="750">
 </details>
   
 🎯 Le SPAM a pour objectif de produire de façon autonome des moteurs.  
   <details>
   <summary>📘 Voir les missions du système de communication</summary>
   <br>
-  <img src="assets/Missions_système_communication.jpg" alt="Missions_système_communication" width="750">
+  <img src="assets/images/Missions_système_communication.jpg" alt="Missions_système_communication" width="750">
 </details>
 
 🛠 Conception du système de communication :
