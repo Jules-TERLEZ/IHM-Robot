@@ -1,14 +1,25 @@
-## Interface Homme-Machine pour Robot
+![Projet universitaire](https://img.shields.io/badge/Université%20de%20Lorraine-Project-lightgrey?logo=googlescholar)
+![MBSE](https://img.shields.io/badge/Ingénierie%20des%20Exigences-Système-orange.svg)
+![Programmation](https://img.shields.io/badge/Java-Programmation-blue.svg)
 
-## Description
-Ce projet consiste à créer une interface graphique permettant de contrôler un robot et de programmer ses tâches de manière intuitive. L’interface utilise Java pour la programmation et permet de configurer les actions du robot à travers des commandes simples.
+# Interface Homme-Machine pour Robot
 
-## Objectif
-Développer une interface interactive pour contrôler et programmer un robot avec des actions définies par l'utilisateur, en simplifiant la programmation des tâches via une interface visuelle.
+**💡 Contexte :** SPAM : Sous-système de communication   
+**🎯 Objectif :** Développer une interface interactive pour contrôler et programmer un robot
+**🛠 Technologies :** Java • Cameo Systems Modeler   
+**👥 Auteur :** Jules Terlez 
+**🏫 Université de Lorraine** – Projet universitaire - Master Ingénierie des Systèmes Complexes  
+
+## ✨ Aperçu rapide
+
+- 💡 SPAM (Système de Production Autonome de Moteurs) : Système composé de 5 sous-systèmes
+  ![Architecture_SPAM](lien)
+- 🎯 
+  
 
 ## Compétences utilisées
 - **Langage** : Java
-- **Outils** : JavaFX (pour l'interface graphique)
+- **Outils** : JavaFX (pour l'interface graphique), MariaDB (base de données), Cameo System Modeler
 - **Technologies** : Commande de robot, Interface Homme-Machine (IHM)
 
 ## Capture d'écran
