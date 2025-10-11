@@ -1,14 +1,16 @@
-![Projet universitaire](https://img.shields.io/badge/Université%20de%20Lorraine-Project-lightgrey?logo=googlescholar)
+# Interface Homme-Machine pour Robot
+
+![Projet universitaire](https://img.shields.io/badge/Université%20de%20Lorraine-Projet-lightgrey?logo=googlescholar)
 ![MBSE](https://img.shields.io/badge/Ingénierie%20des%20Exigences-Système-orange.svg)
 ![Programmation](https://img.shields.io/badge/Java-Programmation-blue.svg)
-
-# Interface Homme-Machine pour Robot
 
 **💡 Contexte :** SPAM - Sous-système de communication   
 **🎯 Objectif :** Développer une interface interactive pour contrôler et programmer un robot  
 **🛠 Technologies :** Java • Cameo Systems Modeler   
 **👥 Auteur :** Jules Terlez   
 **🏫 Université de Lorraine** – Projet universitaire - Master Ingénierie des Systèmes Complexes  
+
+---
 
 ## ✨ Aperçu rapide
 
@@ -32,8 +34,20 @@
   2. Création de la base de données
   3. Codage en Java
 
+📊 Résultats ici
+
+---
+
+## Présentation finale
+Télécharger le Powerpoint :  
+- /assets/Sous-système de communication.pptx
+
+---
+
 ## Visuels
 ![Interface Homme-Machine du Robot](lien_vers_image)
+
+---
 
 ## Compétences utilisées
 - **Langage** : Java
