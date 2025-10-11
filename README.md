@@ -4,7 +4,7 @@
 
 # Interface Homme-Machine pour Robot
 
-**💡 Contexte :** SPAM : Sous-système de communication   
+**💡 Contexte :** SPAM - Sous-système de communication   
 **🎯 Objectif :** Développer une interface interactive pour contrôler et programmer un robot  
 **🛠 Technologies :** Java • Cameo Systems Modeler   
 **👥 Auteur :** Jules Terlez   
@@ -21,12 +21,23 @@
 </details>
   
 🎯 Le SPAM a pour objectif de produire de façon autonome des moteurs.  
-  Le système de communication doit :  
+  <details>
+  <summary>📘 Voir les missions du système de communication</summary>
+  <br>
+  <img src="assets/Architecture_SPAM.jpg" alt="Architecture_SPAM" width="750">
+</details>
+  
+  Le **système de communication** doit :  
   1. **Transporter les articles** (pièces détachées et produits finis) via un robot mobile  
   2. Enregistrer les actions dans une **base de données** + statistiques d'utilisation  
   3. Programmer les **ordres de fabrication**  
   4. Enregistrer les **stocks** dans une base de données  
-  5. Entrer en **mode maintenance**  
+  5. Entrer en **mode maintenance**
+
+🛠 Conception du système de communication :
+  1. Ingénierie des exigences  
+  2. Création de la base de données
+  3. Codage en Java
   
 
 ## Compétences utilisées
