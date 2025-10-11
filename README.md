@@ -24,15 +24,8 @@
   <details>
   <summary>📘 Voir les missions du système de communication</summary>
   <br>
-  <img src="assets/Architecture_SPAM.jpg" alt="Architecture_SPAM" width="750">
+  <img src="assets/Missions_système_communication.jpg" alt="Missions_système_communication" width="750">
 </details>
-  
-  Le **système de communication** doit :  
-  1. **Transporter les articles** (pièces détachées et produits finis) via un robot mobile  
-  2. Enregistrer les actions dans une **base de données** + statistiques d'utilisation  
-  3. Programmer les **ordres de fabrication**  
-  4. Enregistrer les **stocks** dans une base de données  
-  5. Entrer en **mode maintenance**
 
 🛠 Conception du système de communication :
   1. Ingénierie des exigences  
