@@ -23,6 +23,9 @@
 </details>
   
 🎯 Le SPAM a pour objectif de produire de façon autonome des moteurs.  
+Le système de communication doit :  
+1. Contrôler et programmer les tâches d'un robot mobile. 
+2. Gérer une base de données (actions, tâches, stocks)
   <details>
   <summary>Voir les missions du système de communication</summary>
   <br>
