@@ -31,15 +31,14 @@
   1. Ingénierie des exigences  
   2. Création de la base de données
   3. Codage en Java
-  
+
+## Visuels
+![Interface Homme-Machine du Robot](lien_vers_image)
 
 ## Compétences utilisées
 - **Langage** : Java
 - **Outils** : JavaFX (pour l'interface graphique), MariaDB (base de données), Cameo System Modeler
 - **Technologies** : Commande de robot, Interface Homme-Machine (IHM)
-
-## Capture d'écran
-![Interface Homme-Machine du Robot](lien_vers_image)
 
 ## Documentation
 [En savoir plus sur la conception de l'IHM ici](lien_vers_article).
