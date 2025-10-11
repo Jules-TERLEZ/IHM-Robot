@@ -5,16 +5,28 @@
 # Interface Homme-Machine pour Robot
 
 **💡 Contexte :** SPAM : Sous-système de communication   
-**🎯 Objectif :** Développer une interface interactive pour contrôler et programmer un robot
+**🎯 Objectif :** Développer une interface interactive pour contrôler et programmer un robot  
 **🛠 Technologies :** Java • Cameo Systems Modeler   
-**👥 Auteur :** Jules Terlez 
+**👥 Auteur :** Jules Terlez   
 **🏫 Université de Lorraine** – Projet universitaire - Master Ingénierie des Systèmes Complexes  
 
 ## ✨ Aperçu rapide
 
-- 💡 SPAM (Système de Production Autonome de Moteurs) : Système composé de 5 sous-systèmes
-  ![Architecture_SPAM](lien)
-- 🎯 
+💡 **SPAM (Système de Production Autonome de Moteurs)** : Système composé de 5 sous-systèmes.  
+  Ce projet a été réalisé en groupe. Ma partie porte sur le **sous-système de communication**.
+  <details>
+  <summary>📘 Voir l'architecture du SPAM</summary>
+  <br>
+  <img src="assets/Architecture_SPAM.jpg" alt="Architecture_SPAM" width="750">
+</details>
+  
+🎯 Le SPAM a pour objectif de produire de façon autonome des moteurs.  
+  Le système de communication doit :  
+  1. **Transporter les articles** (pièces détachées et produits finis) via un robot mobile  
+  2. Enregistrer les actions dans une **base de données** + statistiques d'utilisation  
+  3. Programmer les **ordres de fabrication**  
+  4. Enregistrer les **stocks** dans une base de données  
+  5. Entrer en **mode maintenance**  
   
 
 ## Compétences utilisées
