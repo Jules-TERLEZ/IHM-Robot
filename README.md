@@ -5,7 +5,7 @@
 ![Programmation](https://img.shields.io/badge/Java-Programmation-blue.svg)
 
 **💡 Contexte :** SPAM - Sous-système de communication   
-**🎯 Objectif :** Développer une interface interactive pour contrôler et programmer un robot  
+**🎯 Objectif :** Développer une interface interactive pour contrôler et programmer un robot mobile  
 **🛠 Technologies :** Java • Cameo Systems Modeler   
 **👥 Auteur :** Jules Terlez   
 **🏫 Université de Lorraine** – Projet universitaire - Master Ingénierie des Systèmes Complexes  
