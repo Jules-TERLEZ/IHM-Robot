@@ -3,6 +3,7 @@
 ![Projet universitaire](https://img.shields.io/badge/Université%20de%20Lorraine-Projet-lightgrey?logo=googlescholar)
 ![MBSE](https://img.shields.io/badge/Ingénierie%20des%20Exigences-Système-orange.svg)
 ![Programmation](https://img.shields.io/badge/Java-Programmation-blue.svg)
+![DataBase](https://img.shields.io/badge/MariaDB-DataBase-green.svg)
 
 **💡 Contexte :** SPAM - Sous-système de communication   
 **🎯 Objectif :** Développer une interface interactive pour contrôler et programmer un robot mobile  
@@ -37,7 +38,7 @@ Le **système de communication** doit :
   2. Création de la base de données
   3. Codage en Java
 
-📊 Résultats ici
+📊 Résultats [ici](lien)  
 
 ---
 
