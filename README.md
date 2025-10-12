@@ -38,7 +38,7 @@ Le **système de communication** doit :
   2. Création de la base de données
   3. Codage en Java
 
-📊 Résultats [ici](lien)  
+📊 **Résultats [ici](lien)**  
 
 ---
 
