@@ -1,4 +1,4 @@
-# Programmation d'un robot mobile via (avec interface graphique)
+# Programmation d'un robot mobile (avec interface graphique)
 
 ![Projet universitaire](https://img.shields.io/badge/Université%20de%20Lorraine-Projet-lightgrey?logo=googlescholar)
 ![MBSE](https://img.shields.io/badge/Ingénierie%20des%20Exigences-Système-orange.svg)
