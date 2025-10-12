@@ -43,7 +43,7 @@ Le **système de communication** doit :
 ---
 
 ## 👇 Présentation finale
-Voir/Télécharger le [Powerpoint](assets/Sous-système%20de%20communication.pptx)
+Télécharger le [Powerpoint](assets/Sous-système%20de%20communication.pptx)
 
 ---
 
