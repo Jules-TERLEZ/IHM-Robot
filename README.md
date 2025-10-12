@@ -33,7 +33,7 @@ Le **système de communication** doit :
   <img src="assets/images/Missions_système_communication.jpg" alt="Missions_système_communication" width="750">
 </details>
 
-🛠 Conception du système de communication :
+🛠 **Conception** du système de communication :
   1. Ingénierie des exigences  
   2. Création de la base de données
   3. Codage en Java
