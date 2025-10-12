@@ -19,8 +19,11 @@
   Notre groupe de projet devait réaliser le système SPAM. Ma partie porte sur le **sous-système de communication**.
   <details>
   <summary>Voir l'architecture du SPAM</summary>
-  <br>
-  <img src="assets/images/Architecture_SPAM.jpg" alt="Architecture_SPAM" width="750">
+  <img src="assets/images/Architecture_SPAM.jpg" alt="Architecture_SPAM" width="750"> <br>
+   <em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Figure 1 – Architecture du SPAM</em>
+</div>
+
+
 </details>
   
 🎯 Le SPAM a pour objectif de produire de façon autonome des moteurs.  
@@ -30,7 +33,8 @@ Le **système de communication** doit :
   <details>
   <summary>Voir les missions du système de communication</summary>
   <br>
-  <img src="assets/images/Missions_système_communication.jpg" alt="Missions_système_communication" width="750">
+  <img src="assets/images/Missions_système_communication.jpg" alt="Missions_système_communication" width="750">   <br>
+<em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Figure 2 - Missions du système de communication</em>
 </details>
 
 🛠 **Conception** du système de communication :
@@ -54,19 +58,19 @@ Télécharger le [Powerpoint](assets/Sous-système%20de%20communication.pptx)
   <p align="center">
   <br>
   <img src="assets/images/Planification_Ordres_Fabrication.jpg" alt="Planification des Ordres de Fabrication" width="750"> <br>
-  <em>Figure 1 - Planification des Ordres de Fabrication</em>
+  <em>Figure 3 - Planification des Ordres de Fabrication</em>
     <br> <br>
   <img src="assets/images/Transport_Articles.jpg" alt="Transport des Articles" width="750"> <br>
-  <em>Figure 2 - Transport des Articles</em>
+  <em>Figure 4 - Transport des Articles</em>
     <br> <br>
   <img src="assets/images/BDD_Stats.jpg" alt="BDD et Statistiques d'utilisation" width="750"> <br>
-  <em>Figure 3 - BDD et Statistiques d'utilisation</em>
+  <em>Figure 5 - BDD et Statistiques d'utilisation</em>
     <br> <br>
   <img src="assets/images/Gestion_Stocks.jpg" alt="Gestion des Stocks" width="750"> <br>
-  <em>Figure 4 - Gestion des Stocks</em>
+  <em>Figure 6 - Gestion des Stocks</em>
     <br> <br>
   <img src="assets/images/Mode_Maintenance.jpg" alt="Mode Maintenance" width="750"> <br>
-  <em>Figure 5 - Mode Maintenance</em>
+  <em>Figure 7 - Mode Maintenance</em>
   </p>
 </details>
 
@@ -84,10 +88,10 @@ Télécharger le [Powerpoint](assets/Sous-système%20de%20communication.pptx)
   <p align="center">
   <br>
   <img src="assets/images/PFMS.jpg" alt="PFMS" width="750"> <br>
-  <em>Figure 1 - PFMS</em>
+  <em>Figure 8 - PFMS</em>
         <br> <br>
   <img src="assets/images/Exigences.jpg" alt="Exigences" width="750"> <br>
-  <em>Figure 2 - Exigences</em>
+  <em>Figure 9 - Exigences</em>
  </p>
 </details>
 
