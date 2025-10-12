@@ -42,13 +42,13 @@ Le **système de communication** doit :
 
 ---
 
-## Présentation finale
+## 👇 Présentation finale
 Voir/Télécharger le Powerpoint :  
 - /assets/Sous-système de communication.pptx
 
 ---
 
-## Visuels
+## 📷 Visuels
 ![Interface Homme-Machine du Robot](assets/images/IHM.jpg)
 <details>
   <summary>Voir détails</summary>
@@ -73,13 +73,13 @@ Voir/Télécharger le Powerpoint :
 
 ---
 
-## Compétences utilisées
+## ✅ Compétences utilisées
 - **Langage** : Java, SQL
 - **Outils** : JavaFX (pour l'interface graphique), MariaDB (base de données), Cameo System Modeler
 
 ---
 
-## Documentation
+## 📁 Documentation
 <details>
   <summary>En savoir plus sur la conception de l'IHM</summary>
   <p align="center">
@@ -94,7 +94,7 @@ Voir/Télécharger le Powerpoint :
 
 ---
 
-## Exécuter le code
+## 🚀 Exécuter le code
 1. Identifiez-vous sur un **ordinateur de l'[AIPL](https://aip-primeca.univ-lorraine.fr/)**
 2. Démarrez le **serveur** (demandez au professeur/référent du cours)
 3. Suivez ce tutoriel [ici](lien)
