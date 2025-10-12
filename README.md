@@ -77,8 +77,8 @@ Télécharger le [Powerpoint](assets/Sous-système%20de%20communication.pptx)
 ---
 
 ## ✅ Compétences utilisées
-- **Langage** : Java, SQL
-- **Outils** : JavaFX (pour l'interface graphique), MariaDB (base de données), Cameo System Modeler
+- **Langages** : Java, SQL
+- **Outils** : JavaFX (pour l'interface graphique), MariaDB (base de données), Cameo Systems Modeler
 
 ---
 
