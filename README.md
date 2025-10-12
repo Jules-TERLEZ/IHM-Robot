@@ -16,7 +16,7 @@
 ## ✨ Aperçu rapide
 
 💡 **SPAM (Système de Production Autonome de Moteurs)** : Système composé de 5 sous-systèmes.  
-  Ce projet a été réalisé en groupe. Ma partie porte sur le **sous-système de communication**.
+  Notre groupe de projet devait réaliser le système SPAM. Ma partie porte sur le **sous-système de communication**.
   <details>
   <summary>Voir l'architecture du SPAM</summary>
   <br>
