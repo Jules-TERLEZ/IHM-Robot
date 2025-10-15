@@ -8,7 +8,7 @@
 **💡 Contexte :** SPAM - Sous-système de communication   
 **🎯 Objectif :** Développer une interface interactive pour contrôler et programmer un robot mobile  
 **🛠 Technologies :** Java  • MariaDB • Cameo Systems Modeler   
-**👥 Auteur :** Jules Terlez   
+**👤 Auteur :** Jules Terlez   
 **🏫 Université de Lorraine** – Projet universitaire - Master Ingénierie des Systèmes Complexes  
 
 ---
