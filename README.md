@@ -82,7 +82,7 @@ Télécharger le [Powerpoint](assets/Sous-système%20de%20communication.pptx)
 
 ---
 
-## 📁 Documentation
+## 📒 Documentation
 <details>
   <summary>En savoir plus sur la conception de l'IHM</summary>
   <p align="center">
