@@ -15,19 +15,19 @@
 
 ## Aperçu rapide
 
-💡 **SPAM (Système de Production Autonome de Moteurs)** : Système composé de 5 sous-systèmes.  
-  Objectif du projet : réaliser le système SPAM. Ma partie porte sur le **sous-système de communication**.
-  <details>
-  <summary>Voir l'architecture du SPAM</summary>
+💡 Notre groupe de projet devait réaliser le système **SPAM (Système de Production Autonome de Moteurs)**.  
+Le SPAM a pour objectif de produire de façon autonome des moteurs. Il est composé de 5 sous-systèmes.  
+ <details>
+  <summary>Voir l'architecture du système SPAM</summary>
   <img src="assets/images/Architecture_SPAM.jpg" alt="Architecture_SPAM" width="750"> <br>
-   <em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Figure 1 – Architecture du SPAM</em>
+   <em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;Figure 1 – Architecture du système SPAM</em>
 </div>
+</details>  
 
-
-</details>
+Nous avions chacun un sous-système à faire. Ma partie portait sur le **sous-système de communication**.  
+<br>
   
-🎯 Le SPAM a pour objectif de produire de façon autonome des moteurs.  
-Le **système de communication** doit :  
+🎯 Le **système de communication** doit :  
 1. Contrôler et programmer les tâches d'un robot mobile. 
 2. Gérer une base de données (actions, tâches, stocks)
   <details>
@@ -35,7 +35,7 @@ Le **système de communication** doit :
   <br>
   <img src="assets/images/Missions_système_communication.jpg" alt="Missions_système_communication" width="750">   <br>
 <em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Figure 2 - Missions du système de communication</em>
-</details>
+</details> <br>
 
 🛠 **Conception** du système de communication :
   1. Ingénierie des exigences  
