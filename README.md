@@ -15,7 +15,7 @@
 
 ## Aperçu rapide
 
-💡 Notre groupe de projet devait réaliser le système **SPAM (Système de Production Autonome de Moteurs)**.  
+💡 Contexte - Notre groupe de projet devait réaliser le système **SPAM (Système de Production Autonome de Moteurs)**.  
 Le SPAM a pour objectif de produire de façon autonome des moteurs. Il est composé de 5 sous-systèmes.  
  <details>
   <summary>Voir l'architecture du système SPAM</summary>
@@ -27,7 +27,7 @@ Le SPAM a pour objectif de produire de façon autonome des moteurs. Il est compo
 Nous avions chacun un sous-système à faire. Ma partie portait sur le **sous-système de communication**.  
 <br>
   
-🎯 Le **système de communication** doit :  
+🎯 Objectif - Réaliser le **système de communication** pour :  
 1. Contrôler et programmer les tâches d'un robot mobile. 
 2. Gérer une base de données (actions, tâches, stocks)
   <details>
