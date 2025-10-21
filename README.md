@@ -25,7 +25,7 @@ Le SPAM a pour objectif de produire de façon autonome des moteurs. Il est compo
 </p>
 </details>  
 
-Nous avions chacun un sous-système à faire. Ma partie portait sur le **système de communication**.  
+Nous avions chacun un sous-système à faire. Ma partie portait sur le sous-**système de communication**.  
 <br>
   
 🎯 **Objectif** - Réaliser le système de communication pour :  
