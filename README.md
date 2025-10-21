@@ -15,26 +15,28 @@
 
 ## Aperçu rapide
 
-💡 **Contexte** - Notre groupe de projet devait réaliser le système **SPAM (Système de Production Autonome de Moteurs)**.  
+💡 **Contexte** - Notre groupe de projet devait réaliser le système SPAM (Système de Production Autonome de Moteurs).  
 Le SPAM a pour objectif de produire de façon autonome des moteurs. Il est composé de 5 sous-systèmes.  
  <details>
   <summary>Voir l'architecture du système SPAM</summary>
+  <p align="center">
   <img src="assets/images/Architecture_SPAM.jpg" alt="Architecture_SPAM" width="750"> <br>
-   <em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;Figure 1 – Architecture du système SPAM</em>
-</div>
+<em>Figure 1 – Architecture du système SPAM</em>
+</p>
 </details>  
 
 Nous avions chacun un sous-système à faire. Ma partie portait sur le **sous-système de communication**.  
 <br>
   
-🎯 **Objectif** - Réaliser le **système de communication** pour :  
+🎯 **Objectif** - Réaliser le système de communication pour :  
 1. Contrôler et programmer les tâches d'un robot mobile. 
 2. Gérer une base de données (actions, tâches, stocks)
   <details>
   <summary>Voir les missions du système de communication</summary>
-  <br>
+  <p align="center">
   <img src="assets/images/Missions_système_communication.jpg" alt="Missions_système_communication" width="750">   <br>
-<em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Figure 2 - Missions du système de communication</em>
+<em>Figure 2 - Missions du système de communication</em>
+  </p>
 </details> <br>
 
 🛠 **Conception** du système de communication :
