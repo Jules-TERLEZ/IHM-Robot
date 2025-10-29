@@ -44,7 +44,7 @@ Nous avions chacun un sous-système à faire. Ma partie portait sur le sous-**sy
   2. Création de la base de données
   3. Codage en Java
 
-📊 <ins>**Résultat</ins> [ici](lien)**
+<!--📊 <ins>**Résultat</ins> [ici](lien)**-->
 
 ---
 
@@ -99,7 +99,7 @@ Télécharger le [Powerpoint](assets/Sous-système%20de%20communication.pptx)
 
 ---
 
-## 🚀 Exécuter le code
+<!--## 🚀 Exécuter le code
 1. Identifiez-vous sur un **ordinateur de l'[AIPL](https://aip-primeca.univ-lorraine.fr/)**
 2. Démarrez le **serveur** (demandez au professeur/référent du cours)
 3. Suivez ce tutoriel [ici](lien)
@@ -114,4 +114,4 @@ Télécharger le [Powerpoint](assets/Sous-système%20de%20communication.pptx)
 11. Connectez-vous à Kapss'Ul, puis à MariaDB
 12. Modifiez
 13. Créez une nouvelle base de données Projet_POO_S7
-14. Créez 3 nouvelles tables : 
+14. Créez 3 nouvelles tables : -->
