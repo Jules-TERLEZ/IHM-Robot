@@ -13,14 +13,17 @@
 
 ---
 
+## 🎬 Démonstration du projet
+
+Vous pouvez voir la vidéo de démonstration en un clic ci-dessous :
+
+[![Voir la démo](https://img.youtube.com/vi/KUxI230pNlU/0.jpg)](https://www.youtube.com/watch?v=KUxI230pNlU)
+
+👉 Cliquez sur l’image pour ouvrir la vidéo sur YouTube.  
+
+
 ## Aperçu rapide
-
-👉 **Démonstatration** <video controls width="640">
-  <source src="demo_IHM.mp4" type="video/mp4">
-  Votre navigateur ne supporte pas la lecture vidéo.
-</video>
  
-
 💡 **Contexte** - Notre groupe de projet devait réaliser le système SPAM (Système de Production Autonome de Moteurs).  
 Le SPAM a pour objectif de produire de façon autonome des moteurs. Il est composé de 5 sous-systèmes.  
  <details>
