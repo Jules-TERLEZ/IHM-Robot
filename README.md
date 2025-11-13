@@ -15,6 +15,8 @@
 
 ## Aperçu rapide
 
+👉 **Démonstatration** 
+
 💡 **Contexte** - Notre groupe de projet devait réaliser le système SPAM (Système de Production Autonome de Moteurs).  
 Le SPAM a pour objectif de produire de façon autonome des moteurs. Il est composé de 5 sous-systèmes.  
  <details>
