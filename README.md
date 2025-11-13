@@ -15,7 +15,11 @@
 
 ## Aperçu rapide
 
-👉 **Démonstatration** <video src="demo_IHM(2).mp4" controls width="600"></video>  
+👉 **Démonstatration** <video controls width="640">
+  <source src="demo_IHM.mp4" type="video/mp4">
+  Votre navigateur ne supporte pas la lecture vidéo.
+</video>
+ 
 
 💡 **Contexte** - Notre groupe de projet devait réaliser le système SPAM (Système de Production Autonome de Moteurs).  
 Le SPAM a pour objectif de produire de façon autonome des moteurs. Il est composé de 5 sous-systèmes.  
