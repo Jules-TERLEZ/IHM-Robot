@@ -1,4 +1,6 @@
-HMI for Control and Monitoring of Robotic Data (Java)
+🌐 Available languages: [English](README.md) | [Français](README.fr.md)
+
+# HMI for Control and Monitoring of Robotic Data (Java)
 
 ![University Project](https://img.shields.io/badge/Université%20de%20Lorraine-Project-lightgrey?logo=googlescholar)
 ![MBSE](https://img.shields.io/badge/Requirements%20Engineering-System-orange.svg)
@@ -17,7 +19,7 @@ HMI for Control and Monitoring of Robotic Data (Java)
 
 You can watch the demonstration video with a single click below:
 
-[![Watch the demo](https://img.youtube.com/vi/KUxI230pNlU/0.jpg)](https://www.youtube.com/watch?v=KUxI230pNlU)
+[![Watch the demo](https://img.youtube.com/vi/KUxI230pNlU/maxresdefault.jpg)](https://www.youtube.com/watch?v=KUxI230pNlU)
 
 Click on the image to open the YouTube video.  
 
