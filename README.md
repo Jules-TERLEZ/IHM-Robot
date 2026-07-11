@@ -17,7 +17,7 @@
 
 Vous pouvez voir la vidéo de démonstration en un clic ci-dessous :
 
-[![Voir la démo](https://img.youtube.com/vi/KUxI230pNlU/hqdefault.jpg)](https://www.youtube.com/watch?v=KUxI230pNlU)
+[![Voir la démo](https://img.youtube.com/vi/KUxI230pNlU/maxresdefault.jpg)](https://www.youtube.com/watch?v=KUxI230pNlU)
 
 Cliquez sur l’image pour ouvrir la vidéo  YouTube.  
 
