@@ -1,4 +1,4 @@
-# Programmation d'un robot mobile (avec interface graphique)
+# IHM de contrôle et de monitoring de données robotiques (Java)
 
 ![Projet universitaire](https://img.shields.io/badge/Université%20de%20Lorraine-Projet-lightgrey?logo=googlescholar)
 ![MBSE](https://img.shields.io/badge/Ingénierie%20des%20Exigences-Système-orange.svg)
@@ -7,13 +7,13 @@
 
 **💡 Contexte :** SPAM - Sous-système de communication   
 **🎯 Objectif :** Développer une interface intuitive pour contrôler et programmer un robot mobile  
-**🛠 Technologies :** Java  • MariaDB • Cameo Systems Modeler   
-**👤 Auteur :** Jules Terlez   
-**🏫 Université de Lorraine** – Projet universitaire - Master Ingénierie des Systèmes Complexes  
+**Technologies :** Java  • MariaDB • Cameo Systems Modeler   
+**Auteur :** Jules Terlez   
+**Université de Lorraine** – Projet universitaire - Master Ingénierie des Systèmes Complexes  
 
 ---
 
-## 🎬 Démonstration du projet
+## Démonstration du projet
 
 Vous pouvez voir la vidéo de démonstration en un clic ci-dessous :
 
@@ -57,12 +57,12 @@ Nous avions chacun un sous-système à faire. Ma partie portait sur le sous-**sy
 
 ---
 
-## 👇 Présentation finale
+## Présentation finale
 Télécharger le [Powerpoint](assets/Sous-système%20de%20communication.pptx)
 
 ---
 
-## 📷 Visuels
+## Visuels
 ![Interface Homme-Machine du Robot](assets/images/IHM.jpg)
 <details>
   <summary>Voir détails</summary>
@@ -87,13 +87,13 @@ Télécharger le [Powerpoint](assets/Sous-système%20de%20communication.pptx)
 
 ---
 
-## ✅ Compétences utilisées
+## Compétences utilisées
 - **Langages** : Java, SQL
 - **Outils** : JavaFX (pour l'interface graphique), MariaDB (base de données), Cameo Systems Modeler
 
 ---
 
-## 📒 Documentation
+## Documentation
 <details>
   <summary>En savoir plus sur la conception de l'IHM</summary>
   <p align="center">
@@ -106,9 +106,11 @@ Télécharger le [Powerpoint](assets/Sous-système%20de%20communication.pptx)
  </p>
 </details>
 
+<!--
+
 ---
 
-<!--## 🚀 Exécuter le code
+## 🚀 Exécuter le code
 1. Identifiez-vous sur un **ordinateur de l'[AIPL](https://aip-primeca.univ-lorraine.fr/)**
 2. Démarrez le **serveur** (demandez au professeur/référent du cours)
 3. Suivez ce tutoriel [ici](lien)
