@@ -7,17 +7,17 @@
 ![Programming](https://img.shields.io/badge/Java-Programming-blue.svg)
 ![DataBase](https://img.shields.io/badge/MariaDB-DataBase-green.svg)
 
-**💡 Context:** SPAM - Communication Subsystem   
-**🎯 Objective:** Develop an intuitive interface to control and program a mobile robot  
-**Technologies:** Java  • MariaDB • Cameo Systems Modeler    
-**Author:** Jules Terlez    
+**💡 Context :** SPAM - Communication Subsystem   
+**🎯 Objective :** Develop an intuitive interface to control and program a mobile robot  
+**Technologies :** Java  • MariaDB • Cameo Systems Modeler    
+**Author :** Jules Terlez    
 **Université de Lorraine** – University Project - Master's in Complex Systems Engineering  
 
 ---
 
 ## Project Demonstration
 
-You can watch the demonstration video with a single click below:
+You can watch the demonstration video with a single click below :
 
 [![Watch the demo](https://img.youtube.com/vi/KUxI230pNlU/maxresdefault.jpg)](https://www.youtube.com/watch?v=KUxI230pNlU)
 
